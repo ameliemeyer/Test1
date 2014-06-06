@@ -67,7 +67,7 @@ class HelloPythonWidget:
     self.helloWorldButton = helloWorldButton
 
   def onHelloWorldButtonClicked(self):
-    print "Hello World ! Code modifie"
+    print "Hello World !"
     # (Insert Section B text here)
     # (be sure to match indentation of the rest of this 
     # code)
